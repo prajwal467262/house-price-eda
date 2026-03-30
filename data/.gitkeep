@@ -1,0 +1,3 @@
+# Download Ames Housing dataset from Kaggle
+# https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques
+# Place train.csv here and rename to house_prices.csv
